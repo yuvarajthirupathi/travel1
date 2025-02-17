@@ -1,0 +1,17 @@
+.newsletter-section {
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .newsletter-bg {
+    background: url('C:/Users/Administrator/Desktop/feb15/my-app/src/Rectangle 1339 (1).png') no-repeat center center;
+    background-size: cover;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .content-overlay {
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 8px;
+  }
+  .hello{
+    width: 80%;
+  }
